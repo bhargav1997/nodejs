@@ -1,15 +1,15 @@
 Here are some free APIs that you can use for testing:
 
-1. **Public APIs**: Get a list of any or all public APIs currently cataloged in the project⁵.
-2. **Cat Facts**: Get random cat facts via text message every day⁶.
-3. **CoinDesk**: View the Bitcoin Price Index (BPI) in real-time⁷.
-4. **Bored**: Bored is a free API to find something to do by getting suggestions for random activities⁸.
-5. **Agify.io**: Predict the age of a person based on their name⁹.
-6. **Genderize.io**: Predict the gender of a person based on their name[^10^].
-7. **Nationalize.io**: Predict the nationality of a person based on their name¹¹.
-8. **Data USA**: Get US public data (e.g., population data, etc.)¹².
-9. **Dogs**: Cheer yourself up with random dog images¹³.
-10. **IPify**: IPify is a free API that allows you to get your current IP address¹.
+1. **Public APIs**: Get a list of any or all public APIs currently cataloged in the project.
+2. **Cat Facts**: Get random cat facts via text message every day.
+3. **CoinDesk**: View the Bitcoin Price Index (BPI) in real-time.
+4. **Bored**: Bored is a free API to find something to do by getting suggestions for random activities.
+5. **Agify.io**: Predict the age of a person based on their name.
+6. **Genderize.io**: Predict the gender of a person based on their name.
+7. **Nationalize.io**: Predict the nationality of a person based on their name.
+8. **Data USA**: Get US public data (e.g., population data, etc.).
+9. **Dogs**: Cheer yourself up with random dog images.
+10. **IPify**: IPify is a free API that allows you to get your current IP address.
 
 You can test these APIs directly in your browser or using any API testing tool. Since these APIs don't require any keys, 
 
