@@ -95,3 +95,5 @@ node app.js
 
 Now, you can test the endpoints using any API testing tool or even your browser for GET requests. For example, you can navigate to `http://localhost:3000/public-apis` to get a list of public APIs. Replace `public-apis` with other paths to test other APIs. For the `agify` API, 
 you can use a path like `http://localhost:3000/agify/john` to get the predicted age for the name "John".
+
+Huge Lists [https://apipheny.io/free-api/](https://apipheny.io/free-api/)
