@@ -10,6 +10,7 @@ Here are some free APIs that you can use for testing:
 8. **Data USA**: Get US public data (e.g., population data, etc.).
 9. **Dogs**: Cheer yourself up with random dog images.
 10. **IPify**: IPify is a free API that allows you to get your current IP address.
+11. **JSON Placeholder**: [https://jsonplaceholder.typicode.com/](https://jsonplaceholder.typicode.com/)
 
 You can test these APIs directly in your browser or using any API testing tool. Since these APIs don't require any keys, 
 
